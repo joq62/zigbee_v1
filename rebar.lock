@@ -1,0 +1,12 @@
+[{<<"log_service">>,
+  {git,"https://github.com/joq62/log_service.git",
+       {ref,"19e4eb8f871eda682c6a81d8e387a33a8f8acf0a"}},
+  0},
+ {<<"rd_service">>,
+  {git,"https://github.com/joq62/rd_service.git",
+       {ref,"f3d4456e84c93f4b48f94d24b6254df8c3f54c32"}},
+  0},
+ {<<"zigbee_service">>,
+  {git,"https://github.com/joq62/zigbee_service.git",
+       {ref,"607f9a1c47904698d3e104741439d5b294b85294"}},
+  0}].
